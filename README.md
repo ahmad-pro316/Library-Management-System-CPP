@@ -1,21 +1,21 @@
 # Library-Management-System-CPP
 # Features:
-Add books
-View books
-Search books
-Edit books
-Delete books
-Save books to file
-Load books from file
-Input validation
-Case-insensitive searching
+1.Add books
+2.View books
+3.Search books
+4.Edit books
+5.Delete books
+6.Save books to file
+7.Load books from file
+8.Input validation
+9.Case-insensitive searching
 # Technologies:
-C++
-File Handling
-Struct
-Arrays
-Functions
-Loops
-Input Validation
+1.C++
+2.File Handling
+3.Struct
+4.Arrays
+5.Functions
+6.Loops
+7.Input Validation
 # Author:
 Ahmad Majdi Attia Noufal
