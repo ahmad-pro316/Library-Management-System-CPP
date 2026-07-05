@@ -18,4 +18,4 @@
 6.Loops
 7.Input Validation
 # Author:
-Ahmad Majdi Attia Noufal
+Ahmad Majdi Atiya Noufal
